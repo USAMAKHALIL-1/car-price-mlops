@@ -1,0 +1,6 @@
+[core]
+    analytics = false
+    remote = storage
+['remote "storage"']
+    url = s3://usama-mlops-dvc-2026/car-price
+    region = us-east-1

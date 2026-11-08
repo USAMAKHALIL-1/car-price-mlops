@@ -1,0 +1,5 @@
+outs:
+- md5: e52e6d1177f94f66b0564399a2a11a73
+  size: 1739127
+  hash: md5
+  path: cars_clean.csv
