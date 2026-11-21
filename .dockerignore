@@ -1,0 +1,10 @@
+cars.csv
+cars_clean.csv
+*.csv
+mlflow.db
+mlruns/
+model.pkl
+.git
+.dvc
+*.dvc
+__pycache__/
